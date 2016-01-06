@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -4468,8 +4468,8 @@ Source: AVX .. aphvc.pdf</description>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="JP1" library="OLED_mod" deviceset="HEADER-1X16" device="ROUND"/>
 <part name="JP2" library="OLED_mod" deviceset="HEADER-1X16" device="ROUND"/>
-<part name="C1" library="rcl" deviceset="C-US" device="C0603K"/>
-<part name="C2" library="rcl" deviceset="C-US" device="C0603K"/>
+<part name="C1" library="rcl" deviceset="C-US" device="C0603K" value="0.1µF"/>
+<part name="C2" library="rcl" deviceset="C-US" device="C0603K" value="0.1µF"/>
 <part name="P+6" library="supply1" deviceset="VCC" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="P+7" library="supply1" deviceset="VCC" device=""/>
