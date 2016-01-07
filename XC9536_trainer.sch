@@ -4453,7 +4453,7 @@ Source: AVX .. aphvc.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="IC1" library="xilinx-xc9" deviceset="XC9536_44VQ" device=""/>
+<part name="IC1" library="xilinx-xc9" deviceset="XC9536_44VQ" device="" value="XC9536"/>
 <part name="U1" library="SparkFun-DigitalIC" deviceset="FT231X" device="S" value="FTS31XS-U"/>
 <part name="CN1" library="OLED_mod" deviceset="USB" device="MINIBLARGE"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
